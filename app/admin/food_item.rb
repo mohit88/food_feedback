@@ -2,7 +2,6 @@ ActiveAdmin.register FoodItem do
 
   index do
     column :name
-    column :feedback
     actions
   end
   # See permitted parameters documentation:
